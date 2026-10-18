@@ -50,12 +50,11 @@ src/
   components/         공용 UI
 ```
 
-## 배포 (GitHub Pages, 무료)
+## 배포 (Vercel)
 
-1. 저장소 **Settings → Pages → Source** 를 **GitHub Actions** 로 변경
-2. `main` 브랜치에 올리면 자동 배포 → `https://<계정>.github.io/yogamaker/`
-
-Vercel / Netlify 에 연결해도 설정 없이 동작해요 (빌드 명령 `npm run build`, 출력 폴더 `dist`).
+- 저장소가 Vercel 에 연결돼 있어요. `main` 에 올리면 본 사이트가 자동 갱신되고, 다른 브랜치/PR 은 미리보기 링크가 생겨요.
+- 빌드 설정: Framework `Vite`, Build `npm run build`, Output `dist` (자동 인식)
+- GitHub Actions(`.github/workflows/ci.yml`)가 푸시마다 린트·테스트·빌드를 확인해요.
 
 ## Codex 로 이어서 개발하기
 

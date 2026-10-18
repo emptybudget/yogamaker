@@ -8,7 +8,7 @@
 
 - 브라우저에서 열리고, 홈 화면에 추가하면 앱처럼 동작 (iPhone / iPad / Android / PC 모두)
 - 오프라인 동작 (요가원 와이파이 약해도 OK)
-- 정적 사이트라 배포 무료 (Vercel 권장 — PR마다 미리보기 링크가 생겨서 Codex 작업 확인이 쉬움)
+- 정적 사이트라 배포 무료 (Vercel 연결됨 — PR마다 미리보기 링크가 생겨서 Codex 작업 확인이 쉬움)
 
 **스택**: Vite + React + TypeScript + Tailwind CSS
 - 드래그 정렬: `@dnd-kit`
@@ -173,7 +173,7 @@ type Sequence = {
 ## 7. 개발 단계
 
 ### ✅ 완료 (v0.1 웹 초안)
-1. 프로젝트 세팅 — Vite+React+TS+Tailwind, HashRouter, GitHub Pages 배포 워크플로
+1. 프로젝트 세팅 — Vite+React+TS+Tailwind, HashRouter, Vercel 배포 + GitHub Actions CI
 2. 데이터 & 시간 계산 — `calcDuration` 계열 함수 + 단위 테스트
 3. 포즈 라이브러리 — 기본 98개, 한글 별칭·초성 검색, 추가/수정/삭제
 4. 저장소 — IndexedDB(dexie), 목록 화면(검색·유형 필터·복제·삭제)
