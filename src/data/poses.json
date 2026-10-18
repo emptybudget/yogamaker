@@ -1,0 +1,1396 @@
+[
+ {
+  "id": "p001",
+  "name": "센터링",
+  "aliases": [
+   "호흡",
+   "호흡명상",
+   "centering"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "seconds",
+   "value": 120
+  }
+ },
+ {
+  "id": "p002",
+  "name": "갈비뼈 껴안기 호흡",
+  "aliases": [
+   "갈비뼈호흡",
+   "흉곽호흡"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p003",
+  "name": "목 스트레칭",
+  "aliases": [
+   "목당기기",
+   "목사방당기기"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p004",
+  "name": "목 반원",
+  "aliases": [
+   "넥서클",
+   "목돌리기",
+   "neck circle"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p005",
+  "name": "어깨 회전",
+  "aliases": [
+   "어깨돌리기",
+   "어깨스트레칭",
+   "shoulder roll"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p006",
+  "name": "팔 Y자 서클",
+  "aliases": [
+   "Y자",
+   "팔서클"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p007",
+  "name": "몸통 서클",
+  "aliases": [
+   "몸통돌리기",
+   "torso circle"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p008",
+  "name": "앉은 측굴",
+  "aliases": [
+   "측굴",
+   "옆구리늘리기",
+   "side bend"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p009",
+  "name": "등뒤깍지 가슴열기",
+  "aliases": [
+   "등뒤깍지",
+   "등뒤합장",
+   "가슴열기"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p010",
+  "name": "앉은 소고양이",
+  "aliases": [
+   "seated cat cow"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p011",
+  "name": "흉추 서클",
+  "aliases": [
+   "흉추돌리기"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 3
+  }
+ },
+ {
+  "id": "p012",
+  "name": "ㄱ자 힙서클",
+  "aliases": [
+   "힙서클"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p013",
+  "name": "나비자세",
+  "aliases": [
+   "받다코나아사나",
+   "baddha konasana",
+   "butterfly"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Baddha Konasana"
+ },
+ {
+  "id": "p014",
+  "name": "손목 스트레칭",
+  "aliases": [
+   "손목"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p015",
+  "name": "바즈라",
+  "aliases": [
+   "바즈라아사나",
+   "금강좌",
+   "vajrasana"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Vajrasana"
+ },
+ {
+  "id": "p016",
+  "name": "고무카",
+  "aliases": [
+   "고무카아사나",
+   "소머리자세",
+   "gomukhasana"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Gomukhasana"
+ },
+ {
+  "id": "p017",
+  "name": "만두카",
+  "aliases": [
+   "만두카아사나",
+   "개구리자세",
+   "mandukasana"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Mandukasana"
+ },
+ {
+  "id": "p018",
+  "name": "아기자세",
+  "aliases": [
+   "발라아사나",
+   "balasana",
+   "child's pose"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Balasana"
+ },
+ {
+  "id": "p019",
+  "name": "무릎 끌어안기",
+  "aliases": [
+   "아파나아사나",
+   "apanasana"
+  ],
+  "category": "warmup",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Apanasana"
+ },
+ {
+  "id": "p020",
+  "name": "테이블",
+  "aliases": [
+   "테이블자세",
+   "네발기기",
+   "table top"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  }
+ },
+ {
+  "id": "p021",
+  "name": "소고양이",
+  "aliases": [
+   "고양이소",
+   "마르자리아사나",
+   "비틸라아사나",
+   "cat cow"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  },
+  "sanskrit": "Marjaryasana-Bitilasana"
+ },
+ {
+  "id": "p022",
+  "name": "네발기기 원그리기",
+  "aliases": [
+   "원그리기",
+   "테이블서클"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p023",
+  "name": "버드독",
+  "aliases": [
+   "bird dog",
+   "새개자세"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p024",
+  "name": "실꿰기",
+  "aliases": [
+   "실꿰기자세",
+   "thread the needle",
+   "파르스바 발라아사나"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p025",
+  "name": "깊은 고양이",
+  "aliases": [
+   "퍼피자세",
+   "우타나시쇼아사나",
+   "puppy pose",
+   "아나하타아사나"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Uttana Shishosana"
+ },
+ {
+  "id": "p026",
+  "name": "게이트",
+  "aliases": [
+   "파리가아사나",
+   "빗장자세",
+   "gate pose"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Parighasana"
+ },
+ {
+  "id": "p027",
+  "name": "다운독",
+  "aliases": [
+   "아도무카스바나아사나",
+   "downward dog",
+   "다운독자세",
+   "견상자세"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Adho Mukha Svanasana"
+ },
+ {
+  "id": "p028",
+  "name": "워킹다운독",
+  "aliases": [
+   "walking dog",
+   "다운독페달링"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 5
+  }
+ },
+ {
+  "id": "p029",
+  "name": "다운독 스플릿",
+  "aliases": [
+   "삼지다운독",
+   "three legged dog",
+   "다운독스플릿"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Eka Pada Adho Mukha Svanasana"
+ },
+ {
+  "id": "p030",
+  "name": "다운독 스플릿 스콜피온",
+  "aliases": [
+   "스콜피온"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  }
+ },
+ {
+  "id": "p031",
+  "name": "플랭크",
+  "aliases": [
+   "팔라카아사나",
+   "plank"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Phalakasana"
+ },
+ {
+  "id": "p032",
+  "name": "차투랑가",
+  "aliases": [
+   "차투랑가단다아사나",
+   "chaturanga"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 1
+  },
+  "sanskrit": "Chaturanga Dandasana"
+ },
+ {
+  "id": "p033",
+  "name": "업독",
+  "aliases": [
+   "우르드바무카스바나아사나",
+   "upward dog",
+   "상향견"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 1
+  },
+  "sanskrit": "Urdhva Mukha Svanasana"
+ },
+ {
+  "id": "p034",
+  "name": "코브라",
+  "aliases": [
+   "부장가아사나",
+   "부장가",
+   "cobra"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Bhujangasana"
+ },
+ {
+  "id": "p035",
+  "name": "스핑크스",
+  "aliases": [
+   "살람바부장가아사나",
+   "sphinx"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Salamba Bhujangasana"
+ },
+ {
+  "id": "p036",
+  "name": "로우런지",
+  "aliases": [
+   "안자네야아사나",
+   "low lunge",
+   "초승달"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Anjaneyasana"
+ },
+ {
+  "id": "p037",
+  "name": "아쉬와산찰라나",
+  "aliases": [
+   "아쉬와산찰라나아사나",
+   "ashwa sanchalanasana"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Ashwa Sanchalanasana"
+ },
+ {
+  "id": "p038",
+  "name": "하프스플릿",
+  "aliases": [
+   "아르다하누만아사나",
+   "아르다하누만",
+   "half split"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Ardha Hanumanasana"
+ },
+ {
+  "id": "p039",
+  "name": "하누만",
+  "aliases": [
+   "하누만아사나",
+   "스플릿",
+   "full split"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Hanumanasana"
+ },
+ {
+  "id": "p040",
+  "name": "비둘기",
+  "aliases": [
+   "에카파다라자카포타아사나",
+   "피존",
+   "pigeon",
+   "비둘기자세"
+  ],
+  "category": "quadruped",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 8
+  },
+  "sanskrit": "Eka Pada Rajakapotasana"
+ },
+ {
+  "id": "p041",
+  "name": "타다사나",
+  "aliases": [
+   "산자세",
+   "tadasana",
+   "mountain"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Tadasana"
+ },
+ {
+  "id": "p042",
+  "name": "서서 전굴",
+  "aliases": [
+   "우타나아사나",
+   "전굴",
+   "forward fold"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Uttanasana"
+ },
+ {
+  "id": "p043",
+  "name": "반전굴",
+  "aliases": [
+   "아르다우타나아사나",
+   "half lift"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 1
+  },
+  "sanskrit": "Ardha Uttanasana"
+ },
+ {
+  "id": "p044",
+  "name": "롤업",
+  "aliases": [
+   "롤다운",
+   "roll up"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  }
+ },
+ {
+  "id": "p045",
+  "name": "의자자세",
+  "aliases": [
+   "우카타아사나",
+   "우카타",
+   "우트카타아사나",
+   "chair"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Utkatasana"
+ },
+ {
+  "id": "p046",
+  "name": "회전 의자자세",
+  "aliases": [
+   "파리브르타우카타아사나",
+   "비틀린의자"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Parivrtta Utkatasana"
+ },
+ {
+  "id": "p047",
+  "name": "하이런지",
+  "aliases": [
+   "high lunge",
+   "크레센트런지",
+   "크레센트"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p048",
+  "name": "비틀린 하이런지",
+  "aliases": [
+   "하이런지비틀기",
+   "twisted lunge"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p049",
+  "name": "워리어1",
+  "aliases": [
+   "전사1",
+   "비라바드라아사나1",
+   "warrior 1"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Virabhadrasana I"
+ },
+ {
+  "id": "p050",
+  "name": "워리어2",
+  "aliases": [
+   "전사2",
+   "비라바드라아사나2",
+   "warrior 2"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Virabhadrasana II"
+ },
+ {
+  "id": "p051",
+  "name": "워리어3",
+  "aliases": [
+   "전사3",
+   "비라바드라아사나3",
+   "warrior 3"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Virabhadrasana III"
+ },
+ {
+  "id": "p052",
+  "name": "리버스 워리어",
+  "aliases": [
+   "리버스",
+   "역전사",
+   "reverse warrior",
+   "피스풀워리어"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Viparita Virabhadrasana"
+ },
+ {
+  "id": "p053",
+  "name": "트리코나아사나",
+  "aliases": [
+   "삼각자세",
+   "트리코나",
+   "triangle"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Utthita Trikonasana"
+ },
+ {
+  "id": "p054",
+  "name": "측각자세",
+  "aliases": [
+   "파르스바코나아사나",
+   "side angle"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Utthita Parsvakonasana"
+ },
+ {
+  "id": "p055",
+  "name": "파르스보타나아사나",
+  "aliases": [
+   "피라미드",
+   "pyramid"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Parsvottanasana"
+ },
+ {
+  "id": "p056",
+  "name": "다리 벌려 전굴",
+  "aliases": [
+   "프라사리타파도타나아사나",
+   "wide leg forward fold"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Prasarita Padottanasana"
+ },
+ {
+  "id": "p057",
+  "name": "스칸다아사나",
+  "aliases": [
+   "스칸다",
+   "skandasana"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Skandasana"
+ },
+ {
+  "id": "p058",
+  "name": "말라사나",
+  "aliases": [
+   "스쿼트",
+   "화환자세",
+   "malasana"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Malasana"
+ },
+ {
+  "id": "p059",
+  "name": "고데스",
+  "aliases": [
+   "우트카타코나아사나",
+   "여신자세",
+   "goddess"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Utkata Konasana"
+ },
+ {
+  "id": "p060",
+  "name": "나무자세",
+  "aliases": [
+   "브륵샤아사나",
+   "tree"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Vrksasana"
+ },
+ {
+  "id": "p061",
+  "name": "독수리",
+  "aliases": [
+   "가루다아사나",
+   "eagle"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Garudasana"
+ },
+ {
+  "id": "p062",
+  "name": "한발서기",
+  "aliases": [
+   "한다리서기",
+   "standing balance"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p063",
+  "name": "비행기",
+  "aliases": [
+   "airplane",
+   "비행기자세"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p064",
+  "name": "반달",
+  "aliases": [
+   "아르다찬드라아사나",
+   "half moon"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Ardha Chandrasana"
+ },
+ {
+  "id": "p065",
+  "name": "사이드플랭크",
+  "aliases": [
+   "바시스타아사나",
+   "side plank"
+  ],
+  "category": "standing",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Vasisthasana"
+ },
+ {
+  "id": "p066",
+  "name": "댄서",
+  "aliases": [
+   "나타라자아사나",
+   "dancer"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Natarajasana"
+ },
+ {
+  "id": "p067",
+  "name": "까마귀",
+  "aliases": [
+   "바카아사나",
+   "crow"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Bakasana"
+ },
+ {
+  "id": "p068",
+  "name": "사이드 까마귀",
+  "aliases": [
+   "파르스바바카아사나",
+   "side crow"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Parsva Bakasana"
+ },
+ {
+  "id": "p069",
+  "name": "머리서기",
+  "aliases": [
+   "시르사아사나",
+   "headstand"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 10
+  },
+  "sanskrit": "Sirsasana"
+ },
+ {
+  "id": "p070",
+  "name": "휠",
+  "aliases": [
+   "우르드바다누라아사나",
+   "우르드바",
+   "wheel"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Urdhva Dhanurasana"
+ },
+ {
+  "id": "p071",
+  "name": "낙타",
+  "aliases": [
+   "우스트라아사나",
+   "camel"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Ustrasana"
+ },
+ {
+  "id": "p072",
+  "name": "활자세",
+  "aliases": [
+   "다누라아사나",
+   "엎드린 활자세",
+   "bow"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Dhanurasana"
+ },
+ {
+  "id": "p073",
+  "name": "메뚜기",
+  "aliases": [
+   "살라바아사나",
+   "locust"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Salabhasana"
+ },
+ {
+  "id": "p074",
+  "name": "보트자세",
+  "aliases": [
+   "나바사나",
+   "나바",
+   "boat"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Navasana"
+ },
+ {
+  "id": "p075",
+  "name": "버드 오브 파라다이스",
+  "aliases": [
+   "스바르가드비자아사나",
+   "bird of paradise"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Svarga Dvijasana"
+ },
+ {
+  "id": "p076",
+  "name": "컴패스",
+  "aliases": [
+   "compass"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  }
+ },
+ {
+  "id": "p077",
+  "name": "핸드스탠드",
+  "aliases": [
+   "아도무카브륵샤아사나",
+   "handstand",
+   "물구나무"
+  ],
+  "category": "peak",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Adho Mukha Vrksasana"
+ },
+ {
+  "id": "p078",
+  "name": "막대자세",
+  "aliases": [
+   "단다아사나",
+   "staff"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Dandasana"
+ },
+ {
+  "id": "p079",
+  "name": "앉은 전굴",
+  "aliases": [
+   "파스치모타나아사나",
+   "seated forward fold"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 10
+  },
+  "sanskrit": "Paschimottanasana"
+ },
+ {
+  "id": "p080",
+  "name": "자누시르사아사나",
+  "aliases": [
+   "머리무릎자세",
+   "head to knee"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 8
+  },
+  "sanskrit": "Janu Sirsasana"
+ },
+ {
+  "id": "p081",
+  "name": "앉은 비틀기",
+  "aliases": [
+   "아르다마첸드라아사나",
+   "seated twist"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Ardha Matsyendrasana"
+ },
+ {
+  "id": "p082",
+  "name": "더블피존",
+  "aliases": [
+   "아그니스탐바아사나",
+   "double pigeon"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 8
+  },
+  "sanskrit": "Agnistambhasana"
+ },
+ {
+  "id": "p083",
+  "name": "역테이블",
+  "aliases": [
+   "아르다푸르보타나아사나",
+   "reverse table"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 3
+  },
+  "sanskrit": "Ardha Purvottanasana"
+ },
+ {
+  "id": "p084",
+  "name": "브릿지",
+  "aliases": [
+   "세투반다사르방가아사나",
+   "세투반다",
+   "bridge",
+   "역브릿지"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Setu Bandha Sarvangasana"
+ },
+ {
+  "id": "p085",
+  "name": "물고기",
+  "aliases": [
+   "마츠야아사나",
+   "fish"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Matsyasana"
+ },
+ {
+  "id": "p086",
+  "name": "할라",
+  "aliases": [
+   "할라아사나",
+   "쟁기자세",
+   "plow"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 8
+  },
+  "sanskrit": "Halasana"
+ },
+ {
+  "id": "p087",
+  "name": "어깨서기",
+  "aliases": [
+   "살람바사르방가아사나",
+   "shoulder stand"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 10
+  },
+  "sanskrit": "Salamba Sarvangasana"
+ },
+ {
+  "id": "p088",
+  "name": "누워서 다리 당기기",
+  "aliases": [
+   "숩타파당구쉬타아사나",
+   "숩다",
+   "reclined hand to big toe"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 8
+  },
+  "sanskrit": "Supta Padangusthasana"
+ },
+ {
+  "id": "p089",
+  "name": "누운 나비",
+  "aliases": [
+   "숩타받다코나아사나",
+   "reclined butterfly"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 10
+  },
+  "sanskrit": "Supta Baddha Konasana"
+ },
+ {
+  "id": "p090",
+  "name": "누운 4자",
+  "aliases": [
+   "누워서 4자",
+   "실꿰기 누운",
+   "figure four"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 8
+  }
+ },
+ {
+  "id": "p091",
+  "name": "해피베이비",
+  "aliases": [
+   "아난다발라아사나",
+   "happy baby"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 5
+  },
+  "sanskrit": "Ananda Balasana"
+ },
+ {
+  "id": "p092",
+  "name": "누워서 비틀기",
+  "aliases": [
+   "숩타마첸드라아사나",
+   "비틀기",
+   "supine twist"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "breaths",
+   "value": 8
+  },
+  "sanskrit": "Supta Matsyendrasana"
+ },
+ {
+  "id": "p093",
+  "name": "모세혈관 털기",
+  "aliases": [
+   "모관운동",
+   "털기"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "seconds",
+   "value": 30
+  }
+ },
+ {
+  "id": "p094",
+  "name": "다리 벽에 올리기",
+  "aliases": [
+   "비파리타카라니",
+   "legs up the wall"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "seconds",
+   "value": 120
+  },
+  "sanskrit": "Viparita Karani"
+ },
+ {
+  "id": "p095",
+  "name": "사바아사나",
+  "aliases": [
+   "사바",
+   "SAVA",
+   "송장자세",
+   "savasana"
+  ],
+  "category": "cooldown",
+  "defaultTiming": {
+   "kind": "seconds",
+   "value": 300
+  },
+  "sanskrit": "Savasana"
+ },
+ {
+  "id": "p096",
+  "name": "수리야 A",
+  "aliases": [
+   "수리야나마스카라A",
+   "sun salutation a",
+   "수리야A"
+  ],
+  "category": "flow",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 1,
+   "secPerRep": 60
+  },
+  "sanskrit": "Surya Namaskar A"
+ },
+ {
+  "id": "p097",
+  "name": "수리야 B",
+  "aliases": [
+   "수리야나마스카라B",
+   "sun salutation b",
+   "수리야B"
+  ],
+  "category": "flow",
+  "defaultTiming": {
+   "kind": "reps",
+   "value": 1,
+   "secPerRep": 90
+  },
+  "sanskrit": "Surya Namaskar B"
+ },
+ {
+  "id": "p098",
+  "name": "빈야사",
+  "aliases": [
+   "플랭크 차투랑가 업독 다운독",
+   "vinyasa"
+  ],
+  "category": "flow",
+  "defaultTiming": {
+   "kind": "seconds",
+   "value": 20
+  }
+ }
+]
